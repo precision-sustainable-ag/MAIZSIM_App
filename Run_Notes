@@ -1,0 +1,4 @@
+This container has the implementation of Maizsim. there is one folder with input data from a complete run (run_01)
+the container will install some fortran libraries and then run the model
+
+I built this in docker for windows docker build --tag maizsim:1.0 .
