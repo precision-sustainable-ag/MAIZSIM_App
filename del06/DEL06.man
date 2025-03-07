@@ -19,6 +19,8 @@ application  1 or 0, 1(yes) 0(no)
 0
 tAppl_R (i)    't' or 'm'      Mass (gr/m2) or thickness (cm)    vertical layers
 ---either thickness  or Mass
+'04/09/2006'  't'            5             3 
+
 [Tillage]
 1: Tillage , 0: No till
  0 
